@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Brian MacArthur"
+title: "Brian MacArthur, MD"
 description: > # this means to ignore newlines until "email:"
-   Dreams and aspirations
+   dreams and aspirations
 
 email: brian.macarthur@gmail.com
 #blog logo

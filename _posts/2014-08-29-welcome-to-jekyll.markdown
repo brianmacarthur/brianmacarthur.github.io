@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-08-29 14:34:25
-categories: jekyll update
+title:  "Open Source Healthcare Protocols"
+date:   2014-12-07 15:06
+categories: introduction
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Steven Clark, MD of the Baylor College of Medicine and Texas Children's Hospital delivered a presentation at the 2014 World Symposium of Perinatal Medicine entitled, "Standardization of Care and Perinatal Outcomes Improvement," in which he shared his experience building a high reliability organization in healthcare and the evidence backing up that approach. He advocated simple and sometimes obvious quality improvement strategies employing protocols to standardize approaches to commonly encountered clinical problems. The most primitive example he cited was a medication management checklist that he jotted down during a 10 minute fishing break.
+
+Another presenter, Alan Spitzer, MD, Senior VP for Research, Education and Quality at Mednax, Pediatrix Medical Group, and American Anesthesiology, highlighted the importance of measuring outcomes at every level of a healthcare organization and implementing strategies to correct underperforming providers and locales.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
