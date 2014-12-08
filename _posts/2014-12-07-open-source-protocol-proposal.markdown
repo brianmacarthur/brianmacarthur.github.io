@@ -3,7 +3,7 @@ layout: post
 title:  "Open Source Healthcare Protocols"
 date:   2014-12-07 15:06
 categories: introduction
-tags: featured
+tags:
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 Steven Clark, MD of the Baylor College of Medicine and Texas Children's Hospital delivered a presentation at the 2014 World Symposium of Perinatal Medicine entitled, "Standardization of Care and Perinatal Outcomes Improvement," in which he shared his experience building a high reliability organization in healthcare and the evidence backing up that approach. He advocated simple and sometimes obvious quality improvement strategies employing protocols to standardize approaches to commonly encountered clinical problems. The most primitive example he cited was a medication management checklist that he jotted down during a 10 minute fishing break.
