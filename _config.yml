@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Brian MacArthur, MD"
 description: > # this means to ignore newlines until "email:"
-   dreams and aspirations
+   Dreams and Aspirations
 
 email: brian.macarthur@gmail.com
 #blog logo
