@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+My hope is that this GitHub Pages site will one day be home to a library of my musings. This page, on the other hand, is not about what I think. It's just about me. It's also under construction as I adapt [Dirk Fabisch's excellent mediator theme](https://github.com/dirkfabisch/mediator) for [Jekyll](http://jekyllrb.com/) to my own purposes.
+
 I am employed as an obstetrician but enjoy programming in my spare time. There are many other hobbies that I'm sure I would find satisfying, but I appreciate that this one in particular has such a minimal equipment requirement. My workshop can be as simple as a notebook and a pen and is never more complicated than a home office.
 
 I was raised in rural Oregon with 2 older brothers by a saint of a mother. We were poor then but loved. And though I haven't experienced poverty in years, my experiences with it as a boy continue to leave a not entirely negative imprint on my life as a man.
