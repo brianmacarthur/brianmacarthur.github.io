@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open Source Standardization of Care"
-date:   2014-12-07 15:06
+date:   2014-12-12 14:14
 categories: introduction
 tags:
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
