@@ -6,7 +6,7 @@ categories: introduction
 tags:
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
-I propose a platform for hosted healthcare treatment algorithm management that embraces key concepts of the open source software movement. If this product existed commercially, it might be called [GitHub](http://www.github.com/about) Health, and in Canada a similar platform already exists. It is the [Canadian CPOE Toolkit](https://cpoe-toolkit.ca/).
+I propose a platform for sharing and managing medical treatment algorithms that embraces key concepts of the open source software movement. If this product existed commercially, it might be called [GitHub](http://www.github.com/about) Health, and in Canada a similar platform already exists. It is the [Canadian CPOE Toolkit](https://cpoe-toolkit.ca/).
 
 ###Inspiration
 I recently attended the [2014 World Symposium of Perinatal Medicine](http://www.worldsymposium.net/2014topics), a fantastic triennial conference that I can't recommend highly enough. That is where I had my first thoughts about open source standardization of care.

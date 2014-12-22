@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toward a Recipe Specification"
+title:  "Toward an OrderScript Specification: syntax candidates"
 date:   2014-12-16 11:25
 categories: recipe
 tags:
